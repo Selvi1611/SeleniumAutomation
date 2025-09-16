@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Cucumber Test Suite" verbose="1" parallel="classes" thread-count="1">
+
+    <listeners>
+        <listener class-name="com.work.framework.TestListener"/>
+    </listeners>
+
+    <test name="Home Page Test">
+        <classes>
+            <class name="com.work.framework.TestRunner" />
+        </classes>
+    </test>
+
+</suite>

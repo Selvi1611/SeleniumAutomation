@@ -1,0 +1,20 @@
+[
+  {
+    "firstname": "user1",
+    "lastname": "tada",
+    "middlename": "t",
+    "empid": "1234"
+  },
+  {
+    "firstname": "user2",
+    "lastname": "tttt",
+    "middlename": "d",
+    "empid": "1235"
+  },
+  {
+    "firstname": "user3",
+    "lastname": "adfs",
+    "middlename": "d",
+    "empid": "1236"
+  }
+]
