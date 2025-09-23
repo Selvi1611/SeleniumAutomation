@@ -7,5 +7,5 @@ Feature: Validate Select Menu functionality
     | dropdown1 | dropdown2 | dropdown3 |
     | Group 2, option 2 | Ms. | Green   |
     | Group 1, option 2 | Mr. | Blue   |
-    | A root option | Dr. | Aqua   |
+    | A root option | Dr. | Red   |
 
