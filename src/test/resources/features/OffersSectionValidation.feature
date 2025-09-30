@@ -7,3 +7,9 @@ Feature: Validate Offers section
       And The user has clicked on Trains tab
       When The user clicks on an Book Now in Offer
       Then The Offer has to load in a new tab
+
+  Scenario: Verify label in Offers Section
+    Given The user has navigated to Offers section
+    And The user has clicked on Trains tab
+    When The user clicks on an Book Now in Offer
+    Then The Offer has to load in a new tab
