@@ -8,4 +8,5 @@ Feature: Validate Select Menu functionality
     | Group 2, option 2 | Ms. | Green   |
     | Group 1, option 2 | Mr. | Blue   |
     | A root option | Dr. | Aqua   |
+    | Group 1, option 1 | Dr. | Blue   |
 
