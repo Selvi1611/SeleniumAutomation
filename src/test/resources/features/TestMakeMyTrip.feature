@@ -1,5 +1,5 @@
 Feature: Launch MakeMyTrip Website
-
+  @RegressionTest
   Scenario: MakeMyTrip page is loaded
     Given The browser is launched with "https://www.makemytrip.com"
     When The Account Creation page is loaded
@@ -22,3 +22,4 @@ Feature: Launch MakeMyTrip Website
       | from  | to  |
       | Chennai | Bangalore |
       | Bangalore | Hyderabad |
+      | Bangalore | Chennai |
